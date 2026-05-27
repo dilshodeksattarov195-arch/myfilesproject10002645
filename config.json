@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailpncrypt",
+        "uuid": 11680320,
+        "checksum": "osvem9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
